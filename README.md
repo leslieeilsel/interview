@@ -12,3 +12,4 @@
 - Nginx
 - Vue
 - JavaScript
+- Test
