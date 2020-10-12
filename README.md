@@ -9,6 +9,6 @@
 - 测试
 - Redis
 - 计算机网络
-- NGINX
+- Nginx
 - Vue
 - JavaScript
